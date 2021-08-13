@@ -6,7 +6,7 @@
   "intervention":{
     "auto":"15",
     "manual":"1"
-  }
+  },
   "deviceData":[
 {
 "deviceId":"DEV-1001",
