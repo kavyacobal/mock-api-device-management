@@ -13,7 +13,7 @@
 "deviceGroup":"Dialysis",
 "online":true,
 "make":"UK",
-"model":"3303"
+"model":"3303",
 "lastConnected":"2021-08-12T23:24:11.663Z",
 "isCompliant":true,
 "health":"healthy"
@@ -23,7 +23,7 @@
 "deviceGroup":"Dialysis",
 "online":false,
 "make":"USA",
-"model":"3303"
+"model":"3303",
 "lastConnected":"2021-05-11T11:24:11.663Z",
 "isCompliant":true,
 "health":"healthy"
@@ -33,7 +33,7 @@
 "deviceGroup":"Dialysis",
 "online":false,
 "make":"USA",
-"model":"1111"
+"model":"1111",
 "lastConnected":"2021-07-29T13:01:11.663Z",
 "isCompliant":false,
 "health":"faulty"
