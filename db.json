@@ -2,5 +2,9 @@
 "deviceState":{
   "faulty":"10",
   "healthy":"30"
-}
+},
+  "intervention":{
+    "auto":"15",
+    "manual":"5"
+  }
 }
