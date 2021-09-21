@@ -1,42 +1,4 @@
 {
-"deviceState":{
-  "faulty":"10",
-  "healthy":"30"
-},
-  "intervention":{
-    "auto":"15",
-    "manual":"1"
-  },
-  "deviceData":[
-{
-"deviceId":"DEV-1001",
-"deviceGroup":"Dialysis",
-"online":true,
-"make":"UK",
-"model":"3303",
-"lastConnected":"2021-08-12T23:24:11.663Z",
-"isCompliant":true,
-"health":"healthy"
-},
-{
-"deviceId":"DEV-1002",
-"deviceGroup":"Dialysis",
-"online":false,
-"make":"USA",
-"model":"3303",
-"lastConnected":"2021-05-11T11:24:11.663Z",
-"isCompliant":true,
-"health":"healthy"
-},
-{
-"deviceId":"DEV-1003",
-"deviceGroup":"Dialysis",
-"online":false,
-"make":"USA",
-"model":"1111",
-"lastConnected":"2021-07-29T13:01:11.663Z",
-"isCompliant":false,
-"health":"faulty"
-}
-]
+"deviceData":[{"id":"1","make":"ESP","model":"8266","version":"2","versionsAvailable":["1","2"],"targetedVersion":""},
+              {"id":"2","make":"Raspberry","model":"Pi","version":"1","versionsAvailable":["1","2"],"targetedVersion":""}]
 }
