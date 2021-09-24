@@ -1,7 +1,7 @@
 {
 "deviceData":[
-  {"id":"1","make":"ESP","model":"8266","version":"2","softwareId":"2","status":"Unsupported","targetedVersion":""},
-  {"id":"2","make":"Raspberry","model":"Pi","version":"1","softwareId":"1","status":"Active","targetedVersion":""}
+  {"id":"1","make":"ESP","model":"8266","softwares":[{"id":"1","version":"0.1"},{"id":"2","version":"0.2"}],"status":"Unsupported"},
+  {"id":"2","make":"Raspberry","model":"Pi","softwares":[{"id":"1","version":"0.2"},{"id":"2","version":"0.2"}],"softwareId":"1","status":"Active"}
 ],
   "softwareArtifacts":[
 	{
